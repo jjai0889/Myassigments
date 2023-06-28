@@ -12,7 +12,7 @@ public class AscendingOrder {
 		Arrays.sort(data);
 		
 		System.out.println(data);
-		System.out.println(4);
+		System.out.println(data[data.length-2]);
 
 	}
 
